@@ -1,0 +1,76 @@
+\documentclass[aspectratio=169]{beamer}
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[vietnamese]{babel}
+% \usepackage[T1]{fontenc}
+
+% other packages
+\usepackage{latexsym,amsmath,xcolor,multicol,booktabs,calligra}
+\usepackage{graphicx,pstricks,listings,stackengine}
+\usepackage{caption, subfigure}
+
+% xmu beamer
+\usepackage[blue]{TKKCBeamer}	%厦大蓝
+% \usepackage{TKKCBeamer}	%厦大蓝主题色，但无背景
+% \usepackage[red]{TKKCBeamer}%嘉庚
+
+% 
+
+\usepackage{appendixnumberbeamer}
+
+\author[Hoàng Hữu Tú]{Huu-Tu Hoang, Duc-Hung Le}
+\title
+[A Frame-Based Architecture for Enhanced
+Secure IoT]
+{A Frame-Based Architecture for Enhanced
+Secure IoT Communication with Ascon-128a}
+
+\subtitle{\textrm{The First International Conference on Intelligent Aerial Access and Applications - IAAA 2025}}
+\institute{The University of Science - VNU, Ho Chi Minh City, Vietnam
+\\Faculty of Electronics and Telecommunications}
+\date{dd/MM/2025}
+
+% defs6
+\def\cmd#1{\texttt{\color{red}\footnotesize $\backslash$#1}}
+\def\env#1{\texttt{\color{blue}\footnotesize #1}}
+
+\lstset{
+    basicstyle=\ttfamily\small,
+    keywordstyle=\bfseries\color{red!0!green!0!blue!100},
+    emphstyle=\ttfamily\color{red!100!green!0!blue!0},    % Custom highlighting style
+    stringstyle=\color{red!0!green!100!blue!0},
+    numbers=left,
+    numberstyle=\small\color{gray!50},
+    rulesepcolor=\color{red!20!green!20!blue!20},
+    frame=shadowbox
+}
+
+\usepackage{tcolorbox}
+
+\NewTColorBox{mybox}{ O{red} m d"" !O{} }
+{colframe=#1!75!black,colback=#1!5!white,
+fonttitle=\bfseries,title={#2},
+IfValueT={#3}{watermark text={#3}},#4}
+
+% Clear background
+% \usebackgroundtemplate{}
+
+\begin{document}
+\input{slides/title}
+\begin{frame}{TABLE OF CONTENTS}
+    \tableofcontents[sectionstyle=show,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
+\end{frame}
+
+\input{slides/introduction}
+\input{slides/overview}
+\input{slides/result}
+\input{slides/demo}
+% \input{slides/conclusion}
+
+\appendix
+\input{slides/thanks}
+
+% \input{slides/publication}
+
+\end{document}
