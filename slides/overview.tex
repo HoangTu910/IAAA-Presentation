@@ -15,6 +15,31 @@
 \end{figure}
 \end{frame}
 
+\begin{frame}{THE ASCON-128a LIGHTWEIGHT CRYPTOGRAPHIC}
+\begin{columns}
+        \begin{column}{0.55\textwidth}
+            \begin{itemize}
+                \item Finalist of the NIST Lightweight Cryptography Standardization.
+                \item Designed for constrained devices.
+                \item Support AEAD providing both confidentiality and integrity.
+                \item Used in this system to encrypt data and generate Auth Tag for each frame.
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.45\textwidth}
+            \centering
+            \includegraphics[width=1\linewidth]{pic/ascon.pdf}
+        \end{column}
+    \end{columns}
+\end{frame}
+
+\begin{frame}{FRAME ARCHITECTURE}
+    \vspace{-0.32cm}
+    \begin{figure}
+    	\centering
+    	\includegraphics[width=0.92\textwidth]{pic/gframe.pdf}
+    \end{figure}
+\end{frame}
+
 \begin{frame}{FRAME ARCHITECTURE}
     \vspace{-0.32cm}
     \begin{figure}
@@ -27,7 +52,7 @@
     \vspace{-0.3cm}
     \begin{figure}
     	\centering
-    	\includegraphics[width=0.87\textwidth]{pic/frame2.pdf}
+    	\includegraphics[width=0.9\textwidth]{pic/frame2.pdf}
     \end{figure}
 \end{frame}
 
@@ -35,15 +60,23 @@
 \vspace{-0.3cm}
     \begin{figure}
     	\centering
-    	\includegraphics[width=0.85\textwidth]{pic/sc.pdf}
+    	\includegraphics[width=0.9\textwidth]{pic/parsing.pdf}
     \end{figure}
 \end{frame}
 
-\begin{frame}{ELLIPTIC CURVE DIFFIE-HELLMAN KEY EXCHANGE}
+\begin{frame}{PARSING FUNCTION}
+\vspace{-0.3cm}
+    \begin{figure}
+    	\centering
+    	\includegraphics[width=0.65\textwidth]{pic/frameparse.pdf}
+    \end{figure}
+\end{frame}
+
+\begin{frame}{DYNAMIC KEY EXCHANGE}
     \vspace{-0.3cm}
     \begin{figure}
     	\centering
-    	\includegraphics[width=0.9\textwidth]{pic/ecdh.pdf}
+    	\includegraphics[width=0.7\textwidth]{pic/ecdh.pdf}
     \end{figure}
 \end{frame}
 

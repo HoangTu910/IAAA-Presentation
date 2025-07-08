@@ -1,46 +1,59 @@
 \section{Result and Analysis}
 \begin{frame}{TIME EXECUTIONS}
-	Thời gian truyền trung bình đạt 51.08 ms.
+	Total transmission time averages 49.91 ms.
 	\vspace{-0.2cm}
 	\begin{figure}
 		\centering
-		\hspace*{-1.2cm} 
-		\includegraphics[width=1.2\textwidth]{pic/res_time.pdf}
+		\includegraphics[width=1\textwidth]{pic/res_time.pdf}
 	\end{figure}
 \end{frame}
 
 \begin{frame}{PACKET DELIVERY RATIO}
-	\vspace{-0.25cm}
 	\begin{figure}
 		\centering
-		\includegraphics[width=0.65\textwidth]{pic/pdr.pdf}
+		\includegraphics[width=0.6\textwidth]{pic/packet.png}
+	\end{figure}
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.6\textwidth]{pic/pdr.png}
 	\end{figure}
 \end{frame}
 
 \begin{frame}{POWER CONSUMPTION}
-	Công suất tiêu thụ trung bình là 779.43 mW.
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\textwidth]{pic/stm32power.png}
+	\end{figure}
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\textwidth]{pic/esp32power.png}
+	\end{figure}
+\end{frame}
+
+\begin{frame}{POWER CONSUMPTION}
+	Total power consumption averages 779.43 mW.
 	\vspace{-0.2cm}
 	\begin{figure}
 		\centering
-		\includegraphics[width=1\textwidth]{pic/power.pdf}
+		\includegraphics[width=0.85\textwidth]{pic/power.pdf}
 	\end{figure}
 \end{frame}
 
 \begin{frame}{PAYLOAD EFFICIENCY}
-	Đánh giá dựa trên khung truyền GS2 và kích thước dữ liệu là 3 bytes.
+	Analyze based on the GS2 frame and 3 bytes data.
 	\begin{figure}
 		\centering
 		\includegraphics[width=1\textwidth]{pic/gs2.pdf}
 	\end{figure}
-	Với 3 bytes dữ liệu, tổng kích thước khung truyền là 49 bytes.
-	$\Rightarrow \text{Hiệu suất tải dữ liệu là } \frac{3}{49} \approx 6.12\%$
+	With 3 bytes data, total frame size is 49 bytes
+	$\Rightarrow \text{Payload efficiency is } \frac{3}{49} \approx 6.12\%$
 \end{frame}
 
 \begin{frame}{PAYLOAD EFFICIENCY}
 	\begin{table}[h]
 	\centering
 	\small
-	\caption{Hiệu suất tải với các kích thước tải khác nhau}
+	\caption{Payload efficiency with different payload lengths}
 	\label{tab:efficiency}
 	\begin{tabular}{|p{4cm}|p{5cm}|p{3cm}|}
 	\hline
@@ -53,5 +66,5 @@
 	\hline
 	\end{tabular}
 	\end{table}
-	$\Rightarrow \text{Payload càng lớn thì hiệu suất tải dữ liệu càng cao}$
+	$\Rightarrow \text{The larger the payload, the higher the payload efficiency.}$
 \end{frame}

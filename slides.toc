@@ -1,5 +1,5 @@
 \babel@toc {vietnamese}{}\relax 
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@sectionintoc {2}{Proposes Method}{8}{0}{2}
-\beamer@sectionintoc {3}{Result and Analysis}{16}{0}{3}
-\beamer@sectionintoc {4}{Conclusion and Future Work}{22}{0}{4}
+\beamer@sectionintoc {3}{Result and Analysis}{19}{0}{3}
+\beamer@sectionintoc {4}{Conclusion and Future Work}{26}{0}{4}

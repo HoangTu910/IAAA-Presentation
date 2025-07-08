@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.30)  8 JUL 2025 01:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.30)  9 JUL 2025 00:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1164,7 +1164,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (slides.nav) (slides/title.tex
-<pic/hcmus-fetel-bg.png, id=98, 963.6pt x 542.025pt>
+<pic/hcmus-fetel-bg.png, id=106, 963.6pt x 542.025pt>
 File: pic/hcmus-fetel-bg.png Graphic file (type png)
 <use pic/hcmus-fetel-bg.png>
 Package pdftex.def Info: pic/hcmus-fetel-bg.png  used on input line 6.
@@ -1206,7 +1206,7 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) [4
 
 ]
-<pic/cat.png, id=382, 714.7503pt x 426.393pt>
+<pic/cat.png, id=426, 714.7503pt x 426.393pt>
 File: pic/cat.png Graphic file (type png)
 <use pic/cat.png>
 Package pdftex.def Info: pic/cat.png  used on input line 33.
@@ -1218,7 +1218,7 @@ Overfull \vbox (6.2649pt too high) detected at line 33
 [5
 
  <./pic/cat.png>]
-<pic/research2.png, id=444, 489.2679pt x 312.2064pt>
+<pic/research2.png, id=496, 489.2679pt x 312.2064pt>
 File: pic/research2.png Graphic file (type png)
 <use pic/research2.png>
 Package pdftex.def Info: pic/research2.png  used on input line 47.
@@ -1232,7 +1232,7 @@ Package pdftex.def Info: pic/research2.png  used on input line 47.
 ]
 
 pdfTeX warning: pdflatex (file ./pic/realsystem.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/realsystem.pdf, id=631, 820.98718pt x 421.575pt>
+<pic/realsystem.pdf, id=707, 820.98718pt x 421.575pt>
 File: pic/realsystem.pdf Graphic file (type pdf)
 <use pic/realsystem.pdf>
 Package pdftex.def Info: pic/realsystem.pdf  used on input line 8.
@@ -1246,142 +1246,182 @@ Overfull \vbox (0.67151pt too high) detected at line 8
  <./pic/realsystem.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/system.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/system.pdf, id=743, 455.78279pt x 275.10779pt>
+<pic/system.pdf, id=827, 455.78279pt x 186.6975pt>
 File: pic/system.pdf Graphic file (type pdf)
 <use pic/system.pdf>
 Package pdftex.def Info: pic/system.pdf  used on input line 16.
-(pdftex.def)             Requested size: 338.59023pt x 204.36995pt.
-
-Overfull \vbox (5.20828pt too high) detected at line 16
- []
-
+(pdftex.def)             Requested size: 338.59023pt x 138.6924pt.
 [10
 
  <./pic/system.pdf>]
 
+pdfTeX warning: pdflatex (file ./pic/ascon.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pic/ascon.pdf, id=939, 266.91718pt x 189.8292pt>
+File: pic/ascon.pdf Graphic file (type pdf)
+<use pic/ascon.pdf>
+Package pdftex.def Info: pic/ascon.pdf  used on input line 33.
+(pdftex.def)             Requested size: 179.25114pt x 127.48613pt.
+[11
+
+ <./pic/ascon.pdf>]
+
+pdfTeX warning: pdflatex (file ./pic/gframe.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pic/gframe.pdf, id=1017, 575.2692pt x 85.2786pt>
+File: pic/gframe.pdf Graphic file (type pdf)
+<use pic/gframe.pdf>
+Package pdftex.def Info: pic/gframe.pdf  used on input line 41.
+(pdftex.def)             Requested size: 366.47076pt x 54.32695pt.
+[12
+
+ <./pic/gframe.pdf>]
+
 pdfTeX warning: pdflatex (file ./pic/frame1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/frame1.pdf, id=856, 673.55638pt x 378.45387pt>
+<pic/frame1.pdf, id=1099, 672.59276pt x 288.11641pt>
 File: pic/frame1.pdf Graphic file (type pdf)
 <use pic/frame1.pdf>
-Package pdftex.def Info: pic/frame1.pdf  used on input line 24.
-(pdftex.def)             Requested size: 366.47076pt x 205.91545pt.
-
-Overfull \vbox (6.1846pt too high) detected at line 24
- []
-
-[11
+Package pdftex.def Info: pic/frame1.pdf  used on input line 49.
+(pdftex.def)             Requested size: 366.47076pt x 156.98735pt.
+[13
 
  <./pic/frame1.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/frame2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/frame2.pdf, id=931, 659.5842pt x 382.5492pt>
+<pic/frame2.pdf, id=1183, 660.54776pt x 293.1753pt>
 File: pic/frame2.pdf Graphic file (type pdf)
 <use pic/frame2.pdf>
-Package pdftex.def Info: pic/frame2.pdf  used on input line 32.
-(pdftex.def)             Requested size: 346.55263pt x 200.99893pt.
-
-Overfull \vbox (1.83727pt too high) detected at line 32
- []
-
-[12
+Package pdftex.def Info: pic/frame2.pdf  used on input line 57.
+(pdftex.def)             Requested size: 358.50229pt x 159.11752pt.
+[14
 
  <./pic/frame2.pdf>]
 
-pdfTeX warning: pdflatex (file ./pic/sc.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/sc.pdf, id=1006, 689.6967pt x 402.54388pt>
-File: pic/sc.pdf Graphic file (type pdf)
-<use pic/sc.pdf>
-Package pdftex.def Info: pic/sc.pdf  used on input line 40.
-(pdftex.def)             Requested size: 338.59023pt x 197.61676pt.
-[13
+pdfTeX warning: pdflatex (file ./pic/parsing.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pic/parsing.pdf, id=1266, 595.26389pt x 283.0575pt>
+File: pic/parsing.pdf Graphic file (type pdf)
+<use pic/parsing.pdf>
+Package pdftex.def Info: pic/parsing.pdf  used on input line 65.
+(pdftex.def)             Requested size: 358.50229pt x 170.47502pt.
+[15
 
- <./pic/sc.pdf>]
+ <./pic/parsing.pdf>]
 
-pdfTeX warning: pdflatex (file ./pic/ecdh.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/ecdh.pdf, id=1085, 533.1117pt x 283.0575pt>
-File: pic/ecdh.pdf Graphic file (type pdf)
-<use pic/ecdh.pdf>
-Package pdftex.def Info: pic/ecdh.pdf  used on input line 48.
-(pdftex.def)             Requested size: 358.50229pt x 190.35153pt.
-[14
+pdfTeX warning: pdflatex (file ./pic/frameparse.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pic/frameparse.pdf, id=1349, 587.3142pt x 471.68219pt>
+File: pic/frameparse.pdf Graphic file (type pdf)
+<use pic/frameparse.pdf>
+Package pdftex.def Info: pic/frameparse.pdf  used on input line 73.
+(pdftex.def)             Requested size: 258.91765pt x 207.93665pt.
 
- <./pic/ecdh.pdf>]
-File: pic/sc.pdf Graphic file (type pdf)
-<use pic/sc.pdf>
-Package pdftex.def Info: pic/sc.pdf  used on input line 56.
-(pdftex.def)             Requested size: 338.59023pt x 197.61676pt.
- [15
-
-]) (slides/result.tex (slides.toc) [16
-
-]
-
-pdfTeX warning: pdflatex (file ./pic/res_time.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/res_time.pdf, id=1302, 723.66356pt x 280.1667pt>
-File: pic/res_time.pdf Graphic file (type pdf)
-<use pic/res_time.pdf>
-Package pdftex.def Info: pic/res_time.pdf  used on input line 10.
-(pdftex.def)             Requested size: 478.00508pt x 185.06021pt.
-
-Overfull \hbox (47.95601pt too wide) in paragraph at lines 10--10
- |  [] 
+Overfull \vbox (8.77498pt too high) detected at line 73
  []
 
+[16
 
-Overfull \vbox (15.944pt too high) detected at line 10
+ <./pic/frameparse.pdf>]
+
+pdfTeX warning: pdflatex (file ./pic/ecdh.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pic/ecdh.pdf, id=1427, 533.1117pt x 385.44pt>
+File: pic/ecdh.pdf Graphic file (type pdf)
+<use pic/ecdh.pdf>
+Package pdftex.def Info: pic/ecdh.pdf  used on input line 81.
+(pdftex.def)             Requested size: 278.83578pt x 201.60033pt.
+
+Overfull \vbox (2.43866pt too high) detected at line 81
  []
 
 [17
 
- <./pic/res_time.pdf>]
+ <./pic/ecdh.pdf>]
 
-pdfTeX warning: pdflatex (file ./pic/pdr.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/pdr.pdf, id=1374, 563.2242pt x 397.485pt>
-File: pic/pdr.pdf Graphic file (type pdf)
-<use pic/pdr.pdf>
-Package pdftex.def Info: pic/pdr.pdf  used on input line 18.
-(pdftex.def)             Requested size: 258.91765pt x 182.72401pt.
+pdfTeX warning: pdflatex (file ./pic/sc.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pic/sc.pdf, id=1531, 718.60468pt x 402.54388pt>
+File: pic/sc.pdf Graphic file (type pdf)
+<use pic/sc.pdf>
+Package pdftex.def Info: pic/sc.pdf  used on input line 89.
+(pdftex.def)             Requested size: 338.59023pt x 189.6686pt.
 [18
 
- <./pic/pdr.pdf>]
+ <./pic/sc.pdf>]) (slides/result.tex (slides.toc) [19
+
+]
+
+pdfTeX warning: pdflatex (file ./pic/res_time.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<pic/res_time.pdf, id=1691, 1055.86462pt x 385.44pt>
+File: pic/res_time.pdf Graphic file (type pdf)
+<use pic/res_time.pdf>
+Package pdftex.def Info: pic/res_time.pdf  used on input line 9.
+(pdftex.def)             Requested size: 398.3386pt x 145.41008pt.
+[20
+
+ <./pic/res_time.pdf>]
+<pic/packet.png, id=1769, 901.2069pt x 339.669pt>
+File: pic/packet.png Graphic file (type png)
+<use pic/packet.png>
+Package pdftex.def Info: pic/packet.png  used on input line 20.
+(pdftex.def)             Requested size: 239.00558pt x 90.07922pt.
+<pic/pdr.png, id=1770, 916.3836pt x 339.669pt>
+File: pic/pdr.png Graphic file (type png)
+<use pic/pdr.png>
+Package pdftex.def Info: pic/pdr.png  used on input line 20.
+(pdftex.def)             Requested size: 239.00558pt x 88.58655pt.
+ [21
+
+ <./pic/packet.png> <./pic/pdr.png>]
+<pic/stm32power.png, id=1841, 1076.1003pt x 354.123pt>
+File: pic/stm32power.png Graphic file (type png)
+<use pic/stm32power.png>
+Package pdftex.def Info: pic/stm32power.png  used on input line 31.
+(pdftex.def)             Requested size: 278.83578pt x 91.7564pt.
+<pic/esp32power.png, id=1842, 1076.1003pt x 354.123pt>
+File: pic/esp32power.png Graphic file (type png)
+<use pic/esp32power.png>
+Package pdftex.def Info: pic/esp32power.png  used on input line 31.
+(pdftex.def)             Requested size: 278.83578pt x 91.7564pt.
+
+Overfull \vbox (1.88702pt too high) detected at line 31
+ []
+
+[22
+
+ <./pic/stm32power.png> <./pic/esp32power.png>]
 
 pdfTeX warning: pdflatex (file ./pic/power.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/power.pdf, id=1440, 542.025pt x 216.81pt>
+<pic/power.pdf, id=1913, 542.025pt x 216.81pt>
 File: pic/power.pdf Graphic file (type pdf)
 <use pic/power.pdf>
-Package pdftex.def Info: pic/power.pdf  used on input line 27.
-(pdftex.def)             Requested size: 398.3386pt x 159.34184pt.
-[19
+Package pdftex.def Info: pic/power.pdf  used on input line 40.
+(pdftex.def)             Requested size: 338.59023pt x 135.43974pt.
+[23
 
  <./pic/power.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/gs2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/gs2.pdf, id=1506, 595.26389pt x 89.3739pt>
+<pic/gs2.pdf, id=1986, 595.26389pt x 61.1886pt>
 File: pic/gs2.pdf Graphic file (type pdf)
 <use pic/gs2.pdf>
-Package pdftex.def Info: pic/gs2.pdf  used on input line 37.
-(pdftex.def)             Requested size: 398.3386pt x 59.8079pt.
-[20
+Package pdftex.def Info: pic/gs2.pdf  used on input line 50.
+(pdftex.def)             Requested size: 398.3386pt x 40.94664pt.
+[24
 
- <./pic/gs2.pdf>] [21
+ <./pic/gs2.pdf>] [25
 
-]) (slides/demo.tex (slides.toc) [22
+]) (slides/demo.tex (slides.toc) [26
 
 ]
 
 LaTeX Font Warning: Font shape `T5/cmss/m/it' in size <10.95> not available
 (Font)              Font shape `T5/cmss/m/sl' tried instead on input line 12.
 
-[23
+[27
 
-] [24
+] [28
 
-] [25
+] [29
 
 ]) (slides/thanks.tex
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
 (Font)              scaled to size 35.82726pt on input line 5.
- [26
+ [30
 
 ])
 \tf@nav=\write6
@@ -1402,17 +1442,17 @@ Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: 055455B4E33D0BA115A72AD28A88B66B;635.
  ) 
 Here is how much of TeX's memory you used:
- 31710 strings out of 474486
- 599074 string characters out of 5760645
- 1951542 words of memory out of 5000000
- 53259 multiletter control sequences out of 15000+600000
+ 31775 strings out of 474486
+ 600392 string characters out of 5760645
+ 1953542 words of memory out of 5000000
+ 53316 multiletter control sequences out of 15000+600000
  577010 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,20n,123p,436b,843s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/public/calligra/dpi1433\callig15.pk><D:/MiTek/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MiTek/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MiTek/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/MiTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MiTek/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/MiTek/fonts/type1/vntex/vnr/vnr10.pfb><D:/MiTek/fonts/type1/vntex/vnr/vnss10.pfb><D:/MiTek/fonts/type1/vntex/vnr/vnss12.pfb><D:/MiTek/fonts/type1/vntex/vnr/vnss8.pfb><D:/MiTek/fonts/type1/vntex/vnr/vnssbx10.pfb><D:/MiTek/fonts/type1/vntex/vnr/vnssi10.pfb>
-Output written on slides.pdf (26 pages, 5094120 bytes).
+Output written on slides.pdf (30 pages, 4303568 bytes).
 PDF statistics:
- 1946 PDF objects out of 2073 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
- 178 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2471 PDF objects out of 2487 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
 
