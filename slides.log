@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.30)  10 JUL 2025 16:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.30)  12 JUL 2025 20:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -989,7 +989,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (slides.nav) (slides/title.tex
-<pic/hcmus-fetel-bg.png, id=98, 963.6pt x 542.025pt>
+<pic/hcmus-fetel-bg.png, id=94, 963.6pt x 542.025pt>
 File: pic/hcmus-fetel-bg.png Graphic file (type png)
 <use pic/hcmus-fetel-bg.png>
 Package pdftex.def Info: pic/hcmus-fetel-bg.png  used on input line 6.
@@ -1031,7 +1031,7 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) [4
 
 ]
-<pic/research2.png, id=384, 489.2679pt x 312.2064pt>
+<pic/research2.png, id=362, 489.2679pt x 312.2064pt>
 File: pic/research2.png Graphic file (type png)
 <use pic/research2.png>
 Package pdftex.def Info: pic/research2.png  used on input line 47.
@@ -1045,7 +1045,7 @@ Package pdftex.def Info: pic/research2.png  used on input line 47.
 ]
 
 pdfTeX warning: pdflatex (file ./pic/realsystem.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/realsystem.pdf, id=572, 820.98718pt x 421.575pt>
+<pic/realsystem.pdf, id=538, 820.98718pt x 421.575pt>
 File: pic/realsystem.pdf Graphic file (type pdf)
 <use pic/realsystem.pdf>
 Package pdftex.def Info: pic/realsystem.pdf  used on input line 8.
@@ -1059,7 +1059,7 @@ Overfull \vbox (0.69841pt too high) detected at line 8
  <./pic/realsystem.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/system.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/system.pdf, id=684, 455.78279pt x 186.6975pt>
+<pic/system.pdf, id=646, 455.78279pt x 186.6975pt>
 File: pic/system.pdf Graphic file (type pdf)
 <use pic/system.pdf>
 Package pdftex.def Info: pic/system.pdf  used on input line 16.
@@ -1069,7 +1069,7 @@ Package pdftex.def Info: pic/system.pdf  used on input line 16.
  <./pic/system.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/ascon.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/ascon.pdf, id=788, 266.91718pt x 189.8292pt>
+<pic/ascon.pdf, id=746, 266.91718pt x 189.8292pt>
 File: pic/ascon.pdf Graphic file (type pdf)
 <use pic/ascon.pdf>
 Package pdftex.def Info: pic/ascon.pdf  used on input line 33.
@@ -1079,7 +1079,7 @@ Package pdftex.def Info: pic/ascon.pdf  used on input line 33.
  <./pic/ascon.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/gframe.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/gframe.pdf, id=858, 575.2692pt x 85.2786pt>
+<pic/gframe.pdf, id=812, 575.2692pt x 85.2786pt>
 File: pic/gframe.pdf Graphic file (type pdf)
 <use pic/gframe.pdf>
 Package pdftex.def Info: pic/gframe.pdf  used on input line 41.
@@ -1089,7 +1089,7 @@ Package pdftex.def Info: pic/gframe.pdf  used on input line 41.
  <./pic/gframe.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/frame1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/frame1.pdf, id=932, 672.59276pt x 288.11641pt>
+<pic/frame1.pdf, id=882, 672.59276pt x 288.11641pt>
 File: pic/frame1.pdf Graphic file (type pdf)
 <use pic/frame1.pdf>
 Package pdftex.def Info: pic/frame1.pdf  used on input line 49.
@@ -1099,7 +1099,7 @@ Package pdftex.def Info: pic/frame1.pdf  used on input line 49.
  <./pic/frame1.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/frame2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/frame2.pdf, id=1007, 660.54776pt x 293.1753pt>
+<pic/frame2.pdf, id=953, 660.54776pt x 293.1753pt>
 File: pic/frame2.pdf Graphic file (type pdf)
 <use pic/frame2.pdf>
 Package pdftex.def Info: pic/frame2.pdf  used on input line 57.
@@ -1109,7 +1109,7 @@ Package pdftex.def Info: pic/frame2.pdf  used on input line 57.
  <./pic/frame2.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/sc.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/sc.pdf, id=1083, 718.60468pt x 402.54388pt>
+<pic/sc.pdf, id=1025, 718.60468pt x 402.54388pt>
 File: pic/sc.pdf Graphic file (type pdf)
 <use pic/sc.pdf>
 Package pdftex.def Info: pic/sc.pdf  used on input line 81.
@@ -1119,7 +1119,7 @@ Package pdftex.def Info: pic/sc.pdf  used on input line 81.
  <./pic/sc.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/ecdh.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/ecdh.pdf, id=1162, 533.1117pt x 385.44pt>
+<pic/ecdh.pdf, id=1100, 533.1117pt x 385.44pt>
 File: pic/ecdh.pdf Graphic file (type pdf)
 <use pic/ecdh.pdf>
 Package pdftex.def Info: pic/ecdh.pdf  used on input line 89.
@@ -1135,7 +1135,7 @@ Overfull \vbox (2.46556pt too high) detected at line 89
 ]
 
 pdfTeX warning: pdflatex (file ./pic/res_time.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/res_time.pdf, id=1322, 1055.86462pt x 385.44pt>
+<pic/res_time.pdf, id=1252, 1055.86462pt x 385.44pt>
 File: pic/res_time.pdf Graphic file (type pdf)
 <use pic/res_time.pdf>
 Package pdftex.def Info: pic/res_time.pdf  used on input line 9.
@@ -1143,67 +1143,52 @@ Package pdftex.def Info: pic/res_time.pdf  used on input line 9.
 [17
 
  <./pic/res_time.pdf>]
-<pic/packet.png, id=1392, 901.2069pt x 339.669pt>
+<pic/packet.png, id=1318, 901.2069pt x 339.669pt>
 File: pic/packet.png Graphic file (type png)
 <use pic/packet.png>
-Package pdftex.def Info: pic/packet.png  used on input line 20.
-(pdftex.def)             Requested size: 239.00558pt x 90.07922pt.
-<pic/pdr.png, id=1393, 916.3836pt x 339.669pt>
+Package pdftex.def Info: pic/packet.png  used on input line 21.
+(pdftex.def)             Requested size: 258.91765pt x 97.5841pt.
+<pic/pdr.png, id=1319, 916.3836pt x 339.669pt>
 File: pic/pdr.png Graphic file (type png)
 <use pic/pdr.png>
-Package pdftex.def Info: pic/pdr.png  used on input line 20.
-(pdftex.def)             Requested size: 239.00558pt x 88.58655pt.
- [18
+Package pdftex.def Info: pic/pdr.png  used on input line 21.
+(pdftex.def)             Requested size: 258.91765pt x 95.96703pt.
 
- <./pic/packet.png> <./pic/pdr.png>]
-<pic/stm32power.png, id=1456, 1076.1003pt x 354.123pt>
-File: pic/stm32power.png Graphic file (type png)
-<use pic/stm32power.png>
-Package pdftex.def Info: pic/stm32power.png  used on input line 31.
-(pdftex.def)             Requested size: 278.83578pt x 91.7564pt.
-<pic/esp32power.png, id=1457, 1076.1003pt x 354.123pt>
-File: pic/esp32power.png Graphic file (type png)
-<use pic/esp32power.png>
-Package pdftex.def Info: pic/esp32power.png  used on input line 31.
-(pdftex.def)             Requested size: 278.83578pt x 91.7564pt.
-
-Overfull \vbox (1.91393pt too high) detected at line 31
+Overfull \vbox (3.41637pt too high) detected at line 21
  []
 
-[19
+[18
 
- <./pic/stm32power.png> <./pic/esp32power.png>]
+ <./pic/packet.png> <./pic/pdr.png>]
 
 pdfTeX warning: pdflatex (file ./pic/power.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/power.pdf, id=1521, 542.025pt x 216.81pt>
+<pic/power.pdf, id=1378, 542.025pt x 216.81pt>
 File: pic/power.pdf Graphic file (type pdf)
 <use pic/power.pdf>
-Package pdftex.def Info: pic/power.pdf  used on input line 40.
+Package pdftex.def Info: pic/power.pdf  used on input line 41.
 (pdftex.def)             Requested size: 338.59023pt x 135.43974pt.
-[20
+[19
 
  <./pic/power.pdf>]
 
 pdfTeX warning: pdflatex (file ./pic/gs2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<pic/gs2.pdf, id=1586, 595.26389pt x 61.1886pt>
+<pic/gs2.pdf, id=1440, 595.26389pt x 61.1886pt>
 File: pic/gs2.pdf Graphic file (type pdf)
 <use pic/gs2.pdf>
-Package pdftex.def Info: pic/gs2.pdf  used on input line 50.
+Package pdftex.def Info: pic/gs2.pdf  used on input line 77.
 (pdftex.def)             Requested size: 398.3386pt x 40.94664pt.
-[21
+[20
 
- <./pic/gs2.pdf>] [22
+ <./pic/gs2.pdf>]) (slides/demo.tex (slides.toc) [21
 
-]) (slides/demo.tex (slides.toc) [23
+] [22
 
-] [24
-
-] [25
+] [23
 
 ]) (slides/thanks.tex
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
 (Font)              scaled to size 35.82726pt on input line 5.
- [26
+ [24
 
 ])
 \tf@nav=\write6
@@ -1224,17 +1209,17 @@ Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: 1837991A50CDB438D5671BF39C2732E2;702.
  ) 
 Here is how much of TeX's memory you used:
- 31249 strings out of 474486
- 593229 string characters out of 5760645
+ 31227 strings out of 474486
+ 592811 string characters out of 5760645
  1951542 words of memory out of 5000000
- 52808 multiletter control sequences out of 15000+600000
+ 52790 multiletter control sequences out of 15000+600000
  573490 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,20n,123p,436b,830s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/public/calligra/dpi1433\callig15.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx0800.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk><D:/MiTek/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MiTek/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MiTek/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/MiTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MiTek/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on slides.pdf (26 pages, 4050222 bytes).
+ <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/public/calligra/dpi1433\callig15.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx0800.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\Hii\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk><D:/MiTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MiTek/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on slides.pdf (24 pages, 3818415 bytes).
 PDF statistics:
- 2281 PDF objects out of 2487 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
- 198 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2045 PDF objects out of 2073 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 
